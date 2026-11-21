@@ -5,7 +5,7 @@
 - 홈페이지: https://hypersevenlabs.com/cad
 - 설치: 지금 판은 **1.3.5**입니다. 윈도우는 [Microsoft Store](https://apps.microsoft.com/detail/9N3V14L2F5MW)에서 받습니다. 맥(Apple Silicon·인텔)과 윈도우 zip 은 이 저장소의 [Releases](../../releases)에 있습니다.
 - 문의·버그 알리기: [Issues](../../issues), 또는 앱 안 **도움말 → 불편 신고(⌘⇧F)**
-- 회사·기관·단체 맞춤 도입, 후원·투자 문의: essay.archi@gmail.com (자세히: https://hypersevenlabs.com/business)
+- 회사·기관·단체 맞춤 도입, 후원·투자 문의: hypersevenlabs@gmail.com (자세히: https://hypersevenlabs.com/business)
 
 이 저장소에는 설치 파일만 있습니다.
 
