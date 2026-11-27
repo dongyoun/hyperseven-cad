@@ -3,7 +3,7 @@
 도면부터 BIM까지, 하나의 모델로. DWG·SKP·3DM·IFC 파일을 오가던 작업을 한 화면에서 이어 가는 캐드입니다. 모든 기능을 무료로 씁니다. 하이퍼세븐(HyperSeven)은 히스테리시스(HYSTERESIS)의 제품입니다.
 
 - 홈페이지: https://hypersevenlabs.com/cad
-- 설치: 지금 판은 **1.3.10**입니다. 맥(Apple Silicon·인텔)과 윈도우 zip 은 이 저장소의 [Releases](../../releases)에 있습니다. 윈도우는 [Microsoft Store](https://apps.microsoft.com/detail/9N3V14L2F5MW)에서도 받습니다 — 스토어는 심사를 거쳐 조금 늦게 새 판으로 바뀝니다.
+- 설치: 지금 판은 **1.3.11**입니다. 맥(Apple Silicon·인텔)과 윈도우 zip 은 이 저장소의 [Releases](../../releases)에 있습니다. 윈도우는 [Microsoft Store](https://apps.microsoft.com/detail/9N3V14L2F5MW)에서도 받습니다 — 스토어는 심사를 거쳐 조금 늦게 새 판으로 바뀝니다.
 - 문의·버그 알리기: [Issues](../../issues), 또는 앱 안 **도움말 → 불편 신고(⌘⇧F)**
 - 회사·기관·단체 맞춤 도입, 후원·투자 문의: hypersevenlabs@gmail.com (자세히: https://hypersevenlabs.com/business)
 
